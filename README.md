@@ -12,4 +12,4 @@
    * Вы можете создать файл **gamefolder.txt** самостоятельно, просто скопируйте путь игры и вставьте его в **gamefolder.txt** .
 6. Запустите игру
 ##
-Загрузить моды вы можите с сайта  [gamebanana.com](https://gamebanana.com/games/20948)
+Загрузить моды вы можете с сайта  [gamebanana.com](https://gamebanana.com/games/20948)
